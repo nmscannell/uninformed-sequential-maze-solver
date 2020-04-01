@@ -1,0 +1,2 @@
+4
+abcba*a*bcabba*c

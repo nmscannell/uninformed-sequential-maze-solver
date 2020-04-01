@@ -1,0 +1,5 @@
+Search Type, Solution Length, Visited Cells, Path, Total Time
+BFS, 3, 2, <1,a>, <2,*>, <4,c>,   5.299953045323491e-07
+DFS, 3, 2, <1,a>, <2,*>, <4,c>,   1.410007826052606e-07
+DFS, 3, 2, <1,a>, <2,*>, <4,c>,   2  1.579974195919931e-07
+Uniform Cost, 3, 3, <1,a>, <2,*>, <4,c>,   1.5200203051790595e-07

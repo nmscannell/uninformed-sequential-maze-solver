@@ -1,0 +1,2 @@
+7
+ab**bc***abc**c**ba*c*b*a**ca***bc*bc**acc**a**bc

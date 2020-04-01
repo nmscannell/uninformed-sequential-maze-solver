@@ -1,0 +1,5 @@
+Search Type, Solution Length, Visited Cells, Path, Total Time
+BFS, 0, 1, Nil    5.589972715824842e-07
+DFS, 0, 1, Nil    2.090018824674189e-07
+DFS, 0, 1, Nil    2  1.5700061339884996e-07
+Uniform Cost, 0, 1, Nil    1.2900272849947214e-07

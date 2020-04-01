@@ -1,0 +1,2 @@
+7
+ab*bbc*ccabc**c**ba*cab*a**ca*ccbc*bc**accb*a**bc

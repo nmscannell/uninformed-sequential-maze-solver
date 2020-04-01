@@ -1,0 +1,2 @@
+6
+aa*aca**c**bb*a*cb*b**bac*b**ba**cac
